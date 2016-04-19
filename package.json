@@ -1,0 +1,19 @@
+{
+  "name": "decodemtl_day7",
+  "version": "1.0.0",
+  "description": "DecodeMTL Day 7: NodeJS Workshop #2",
+  "main": "call-callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pluk74/node-workshop-2.git"
+  },
+  "author": "pluk74",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pluk74/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/pluk74/node-workshop-2#readme"
+}
